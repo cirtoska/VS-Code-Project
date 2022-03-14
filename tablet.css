@@ -1,0 +1,23 @@
+.wraper-2 {
+  display: none;
+}
+.wraper-1 {
+  flex-wrap: wrap;
+}
+.home-main {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.home-title {
+  flex-basis: 50%;
+}
+.home-title {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.social-proof {
+  flex-direction: row;
+}
+.col-6 {
+  flex-basis: 30%;
+}

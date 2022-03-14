@@ -1,0 +1,54 @@
+.wraper-1 {
+  flex-direction: column;
+  margin: auto;
+}
+#navbar ul {
+  flex-direction: column;
+  margin: auto;
+  margin-bottom: 5px;
+}
+#navbar ul li a {
+  padding: 2px;
+}
+.updates-banner {
+  padding: 10px 20px;
+}
+.fourcol-grid {
+  width: 49%;
+}
+.social-proof {
+  flex-direction: column;
+  margin: 20px auto;
+}
+.profile {
+  padding: 20px;
+}
+.flex {
+  flex-direction: column;
+  text-align: center;
+}
+.flex img {
+  max-width: 50%;
+}
+#debugging,
+#extensions {
+  flex-direction: column-reverse;
+}
+.col-6 {
+  flex-basis: 50%;
+}
+.col-3 {
+  flex-direction: column;
+}
+.download-2 {
+  margin-bottom: 20px;
+}
+.terms {
+  margin-top: 0;
+}
+.terms p {
+  line-height: 25px;
+}
+.terms p br {
+  display: none;
+}
