@@ -1,6 +1,12 @@
 .wraper-2 {
   display: none;
 }
+.menu-nav {
+  display: none;
+}
+a.icon {
+  display: block;
+}
 .wraper-1 {
   flex-wrap: wrap;
 }
