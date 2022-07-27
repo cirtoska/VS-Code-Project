@@ -2,6 +2,9 @@
   flex-direction: column;
   margin: auto;
 }
+a.icon {
+  display: block;
+}
 #navbar ul {
   flex-direction: column;
   margin: auto;

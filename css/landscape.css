@@ -2,7 +2,7 @@
   display: none;
 }
 .search:hover {
-  background-color: none;
+  background-color: transparent;
 }
 form {
   background: none;
@@ -10,7 +10,7 @@ form {
 form:hover {
   color: white;
   border: none;
-  background-color: none;
+  background-color: transparent;
 }
 .flex img {
   width: 100%;
