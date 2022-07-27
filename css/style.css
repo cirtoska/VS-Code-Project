@@ -78,6 +78,25 @@ header {
   justify-content: space-between;
   align-items: baseline;
 }
+.wraper-1 {
+position: relative;
+}
+
+/* Hamburger menu */
+
+a.icon {
+  font-size: 1.2rem;
+  color: white;
+  display: block;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+ 
 /* Button */
 .btn {
   background: #0066b8;
